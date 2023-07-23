@@ -605,7 +605,7 @@ VARIABLE LABELS
   /HW53     "Hemoglobin level (g/dl - 1 decimal)"
   /HW55     "Result of measurement - hemoglobin"
   /HW56     "Hemoglobin level adjusted for altitude (g/dl - 1 decimal)"
-  /HW57     "Anemia level"
+  /HW57     "Anemia level"x
   /HW58     "NA - Agrees to referral - anemia"
   /IDXML    "Index to Birth History"
   /ML0      "Type of mosquito bed net(s) child slept under last night"
