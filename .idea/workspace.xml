@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="refactor: change project structure">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/individual_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelling/multinomial_logistic_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/multinomial_logistic_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelling/individual_data_formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_data_formatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/bivariate_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/bivariate_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/socio_economic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/socio_economic_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/demographic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/demographic_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/socio_economic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/socio_economic_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +37,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/saheedfaremi/Library/CloudStorage/OneDrive-Etihuku/malariaDemographic/modelling&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/saheedfaremi/Library/CloudStorage/OneDrive-Etihuku/malariaDemographic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/modelling" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -84,7 +91,11 @@
       <workItem from="1695137621897" duration="1061000" />
       <workItem from="1695199831664" duration="13905000" />
       <workItem from="1695320923420" duration="5523000" />
-      <workItem from="1695396224496" duration="4113000" />
+      <workItem from="1695396224496" duration="5846000" />
+      <workItem from="1695415928092" duration="614000" />
+      <workItem from="1696842955737" duration="311000" />
+      <workItem from="1697782736554" duration="2878000" />
+      <workItem from="1697786774002" duration="27710000" />
     </task>
     <task id="LOCAL-00001" summary="update: data processed files">
       <created>1690110740696</created>
@@ -132,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695215193397</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactor: change project structure">
+      <option name="closed" value="true" />
+      <created>1695413395875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695413395875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,16 +164,5 @@
     <MESSAGE value="implement: generation  of individual info from house hold recode" />
     <MESSAGE value="refactor: change project structure" />
     <option name="LAST_COMMIT_MESSAGE" value="refactor: change project structure" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/saheedfaremi/Library/CloudStorage/OneDrive-Etihuku/malariaDemographic/modelling/individual_house_hold_recode.ipynb</url>
-          <line>228</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

@@ -3,13 +3,20 @@ import copy
 
 
 def to_number(value):
-    if not isinstance(value, (int, float)):
-        return None
-    return float(value)
+    try:
+        # Attempt to convert the value to a float
+        numeric_value = float(value)
+        return numeric_value
+    except (ValueError, TypeError):
+        if value == "Don't know" or value == "Unknown" or value == "95 or more":
+            return 1000
+        # If conversion fails, return None or any default value you prefer
+        return 10000
 
 
 def generate_formatted_children_under_five():
     individual_recode = pd.read_csv('../data/generate/individual_house_hold_recode.csv')
+    print(individual_recode.shape, 'shape 2122')
     # Deleting columns in which the age of the household member was not recorded
     individual_recode.dropna(subset=['HV105$01 Age of household members'], inplace=True)
     children_under_5 = copy.deepcopy(individual_recode)
