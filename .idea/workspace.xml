@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="refactor: change project structure">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="implement: chi sqaure analysis">
+      <change afterPath="$PROJECT_DIR$/data/code/merge_dataset.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelling/individual_data_formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_data_formatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/code/data_processing_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/code/data_processing_house_hold_recode.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/bivariate_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/bivariate_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistical_analysis/children_recode/children_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/children_recode/children_recode.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/socio_economic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/socio_economic_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/demographic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/demographic_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/socio_economic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate/socio_economic_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +92,8 @@
       <workItem from="1695415928092" duration="614000" />
       <workItem from="1696842955737" duration="311000" />
       <workItem from="1697782736554" duration="2878000" />
-      <workItem from="1697786774002" duration="27710000" />
+      <workItem from="1697786774002" duration="31919000" />
+      <workItem from="1701251617514" duration="12633000" />
     </task>
     <task id="LOCAL-00001" summary="update: data processed files">
       <created>1690110740696</created>
@@ -151,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695413395875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="implement: chi sqaure analysis">
+      <option name="closed" value="true" />
+      <created>1698423797818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698423797818</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +169,7 @@
     <MESSAGE value="update: univariate analysis for children recode clusters" />
     <MESSAGE value="implement: generation  of individual info from house hold recode" />
     <MESSAGE value="refactor: change project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change project structure" />
+    <MESSAGE value="implement: chi sqaure analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement: chi sqaure analysis" />
   </component>
 </project>
