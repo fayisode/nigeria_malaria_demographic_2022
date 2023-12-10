@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="implement: chi sqaure analysis">
-      <change afterPath="$PROJECT_DIR$/data/code/merge_dataset.ipynb" afterDir="false" />
+    <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="implement: merged table of children and house hold recode">
+      <change afterPath="$PROJECT_DIR$/statistical_analysis/merged_house_children/merged_children_house_hold.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/code/data_processing_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/code/data_processing_house_hold_recode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/individual_house_hold_recode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/children_recode/children_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/children_recode/children_recode.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statistical_analysis/individual_house_recode/bivariate/demographic_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/code/merge_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/code/merge_dataset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Tab-separated (TSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/saheedfaremi/Library/CloudStorage/OneDrive-Etihuku/malariaDemographic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -49,11 +48,11 @@
       <recent name="$PROJECT_DIR$/modelling" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/statistical_analysis/merged_house_children" />
       <recent name="$PROJECT_DIR$/modelling" />
       <recent name="$PROJECT_DIR$/statistical_analysis/children_recode" />
       <recent name="$PROJECT_DIR$/statistical_analysis/individual_house_recode/univariate" />
       <recent name="$PROJECT_DIR$/statistical_analysis/individual_house_recode" />
-      <recent name="$PROJECT_DIR$/statistical_analysis" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +92,9 @@
       <workItem from="1696842955737" duration="311000" />
       <workItem from="1697782736554" duration="2878000" />
       <workItem from="1697786774002" duration="31919000" />
-      <workItem from="1701251617514" duration="12633000" />
+      <workItem from="1701251617514" duration="13570000" />
+      <workItem from="1701676297754" duration="8843000" />
+      <workItem from="1702137077555" duration="4772000" />
     </task>
     <task id="LOCAL-00001" summary="update: data processed files">
       <created>1690110740696</created>
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698423797818</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="implement: merged table of children and house hold recode">
+      <option name="closed" value="true" />
+      <created>1701618136110</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701618136111</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +179,7 @@
     <MESSAGE value="implement: generation  of individual info from house hold recode" />
     <MESSAGE value="refactor: change project structure" />
     <MESSAGE value="implement: chi sqaure analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement: chi sqaure analysis" />
+    <MESSAGE value="implement: merged table of children and house hold recode" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement: merged table of children and house hold recode" />
   </component>
 </project>
