@@ -3,6 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 from scipy.stats import chi2_contingency
+import statsmodels.api as sm
 
 def bi_variate_analysis(data, col, target):
     print('Bi variate Analysis of X = ', col, 'and Y = ', target)
