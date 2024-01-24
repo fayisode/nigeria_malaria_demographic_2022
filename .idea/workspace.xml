@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bea6925e-6648-4ae4-ad55-39af72684d9a" name="Changes" comment="implement: merged table of children and house hold recode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modelling/merged_children_house_hold_recode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/modelling/merged_children_house_hold_recode.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,8 @@
       <workItem from="1704637887804" duration="597000" />
       <workItem from="1705495409771" duration="18000" />
       <workItem from="1705973196827" duration="5146000" />
-      <workItem from="1706014900334" duration="7297000" />
+      <workItem from="1706014900334" duration="7676000" />
+      <workItem from="1706072730629" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="update: data processed files">
       <created>1690110740696</created>
@@ -201,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706071792704</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="implement: merged table of children and house hold recode">
+      <option name="closed" value="true" />
+      <created>1706072595160</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706072595160</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
